@@ -22,6 +22,7 @@ import UIKit
 extension FriendlyScore {
   public static func configureConnect()
   public static var tintColor: UIKit.UIColor
+  public static var isDarkMode: Swift.Bool
 }
 extension Bundle {
   public static var FriendlyScoreConnect: Foundation.Bundle? {
