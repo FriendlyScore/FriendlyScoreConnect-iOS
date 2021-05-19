@@ -6,139 +6,223 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		4FigHW44lsm5RSvO4kJLVpGupSM=
+		Aa/usEtH0Vn2thtAVvTEZi6JZUY=
 		</data>
 		<key>BankConsentViewController.nib</key>
 		<data>
-		E7THE+ppYMVDm+bDSLxU7mM8/8M=
+		PvhO1dmtsx+YEf9qQYoV+k+ALds=
 		</data>
 		<key>BankDetailsViewController.nib</key>
 		<data>
-		8kSs3Ogab+kGBAazh1L6n2uqO9w=
+		UmqWJfE54ScrlyRyUHkmPb3iPH8=
 		</data>
 		<key>BankFilterExtendedViewController.nib</key>
 		<data>
-		XcZqCZ2nKdzOMeMOgheTCVKooi0=
+		4YoFxkX0TpmLQ83hxOfZZu5i+ko=
 		</data>
 		<key>BankFilterViewController.nib</key>
 		<data>
-		3OCdhsVg8lS0sVDSljsihIGzR8E=
+		qzc7GUjNOwuOEH+Bt4kSgGF8biM=
 		</data>
 		<key>BankSelectCellCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		p8kpqgM9ZciXH+qb+zWDG46jKBI=
+		QGLu4nuKDOGhbN72qc4OkZJgIFs=
 		</data>
 		<key>BankSelectCellCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		D98Er1uNwLNFLRC+RYeZyBD1/4Y=
+		aTNiuB5VjWiYrtAF5UiybEo1gpo=
+		</data>
+		<key>BankSelectTableViewCell.nib</key>
+		<data>
+		wFum6WnYirZGRzvDNryN7Qm/EkA=
+		</data>
+		<key>BankSelectTableViewController.nib</key>
+		<data>
+		DgPIdaGq5p23Mr/GUEeKPmlPhmM=
 		</data>
 		<key>BankSelectViewController.nib</key>
 		<data>
-		Pmz+034f7YZ+RImfjto5zUdaChk=
+		ynXftNONVR5fO9MSeur0ho7R14c=
+		</data>
+		<key>BankTableCellNew.nib</key>
+		<data>
+		DscrSBPn0/OtkS+Xj2Cn4eC9WpE=
 		</data>
 		<key>BankThankYouViewController.nib</key>
 		<data>
-		z0Itmh0Tctt8fH/OWQ5C2uk3y2o=
+		Pw5AvDYlULlVlok4H7IOpwlBFkE=
+		</data>
+		<key>BankThankYouViewNewController.nib</key>
+		<data>
+		5zlrcoGQMXeMrPjXGEd1CbPntAU=
+		</data>
+		<key>CategoriesWheelTableViewCell.nib</key>
+		<data>
+		b5AvZ85PyhUr0W6aLALBWeiKI3E=
+		</data>
+		<key>CategoryTableViewCell.nib</key>
+		<data>
+		i/F+g6Xh9fx0sYxq3aRcu20R2oI=
 		</data>
 		<key>ConnectedBanksHeaderTableViewCell.nib</key>
 		<data>
-		fjh6rDwZlDlda/vLcDQ+okOf9pM=
+		9OTE1XQq0myRFukyxu7UBW4g8YI=
 		</data>
 		<key>ConsentDetailTableViewCell.nib</key>
 		<data>
-		WB6Sidcu5J/0MKlBQGUJZ3pGOd0=
+		MdRL2Tby1h19FNC6eMZdYcTwXjE=
 		</data>
 		<key>ConsentFooterTableViewCell.nib</key>
 		<data>
-		q9+1DMlaAgqRuU+cFluaI0G/RMM=
+		EuXw+Q3IAAnwGFFFrRLKchTc8go=
+		</data>
+		<key>ConsentHeaderPurposeTableViewCell.nib</key>
+		<data>
+		hH8MAvBhg23gtfMsS0pa2bW3BX4=
 		</data>
 		<key>ConsentHeaderTableViewCell.nib</key>
 		<data>
-		mOszzzzM1CVizVAZLqcbYRPVfHA=
+		EhnNEDifJYiE/G0HD2342FqeIII=
 		</data>
 		<key>ConsentTableViewCell.nib</key>
 		<data>
-		T3cMyXglKiVmP/uY72YNPfJlu2k=
+		hEmRtVgi6O/DOkH2W17iA6o2zPk=
 		</data>
 		<key>ConsentTitleTableViewCell.nib</key>
 		<data>
-		xOEao+bqG40kdCBWT7TRfDBeE7k=
+		xC+uKkfsyM5KZ4oXqbcsgvbmFMM=
 		</data>
 		<key>CountrySelectHeaderTableViewCell.nib</key>
 		<data>
-		+eOJztwQfk5HGns5A2HAkrQYH5I=
+		zNRIZOBULNjYYMBjyKZFvbStmrM=
 		</data>
 		<key>CountrySelectTableViewCell.nib</key>
 		<data>
-		lbu8agfw2KRfW8y6v8JTTYa37Y8=
+		/9J3gLDyFuyQmpX0lgEz8qUn8x4=
+		</data>
+		<key>CredibilityAndAffordabilityTableViewCell.nib</key>
+		<data>
+		Ifn0YWj79bwImlGIOska/fJhDw8=
+		</data>
+		<key>CredibilityAndAffordabilityViewController.nib</key>
+		<data>
+		yjmjK8Faal82zOhYxXTDonS00Ws=
 		</data>
 		<key>FilterButtonTableViewCell.nib</key>
 		<data>
-		mPjqgNTYS78H1zuNHfl+phCun8w=
+		lgMrrkxQ1HnquFEmt4rvAB9dEk4=
 		</data>
 		<key>FilterPresetTableViewCell.nib</key>
 		<data>
-		m92IfSlbVHKKolBotNIfna9iOnY=
+		3pVxnDoJ6CRpZ3IyDGi9MTGP0x4=
+		</data>
+		<key>FinanceChartTableViewCell.nib</key>
+		<data>
+		zO3I3wN8fnpCZEBDmVHd33cY9gU=
+		</data>
+		<key>FooterTableViewCell.nib</key>
+		<data>
+		1uLPNktD3uSnUAaiCXQiq+Hk3pY=
 		</data>
 		<key>Headers/FriendlyScoreConnect-Swift.h</key>
 		<data>
-		9ckXQhSbNNs5zukOQQ1zQU0gSj0=
+		NP6rE0DBCxHh3sOnKBu7kBtr8uo=
 		</data>
 		<key>Headers/FriendlyScoreConnect.h</key>
 		<data>
 		wa4GccdcRorvNIQVqFRurDMvCeI=
 		</data>
+		<key>IncomingsOutgoingsTableViewCell.nib</key>
+		<data>
+		7D6RKy26uMVsvVTlbbdVo+6MQcY=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		MYrjabGsSy6Oa/VhgruVoI6VYPk=
+		yooLcxNKReN1XI+iObWc2o4Ljfo=
+		</data>
+		<key>Modules/FriendlyScoreConnect.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		+aiTapsMADTvdyDtNfzGBFjp+ZE=
+		</data>
+		<key>Modules/FriendlyScoreConnect.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<data>
+		+aiTapsMADTvdyDtNfzGBFjp+ZE=
 		</data>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		s1qZSMRWWUrBUv8M3Dih2hg3gRk=
+		meumXfBjzD5nceZbCFtjyB0/S8M=
 		</data>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		zPxaqNBztA+G34Ilh7GVgOAEqKI=
+		jpj6ryi39G/snU+SVPhmD3c2ED8=
 		</data>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qfQWnOY/DADzgVBKqyVcyZLAsH0=
+		uz058Twl8x0Z0/klc5qlzk9ewCg=
 		</data>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		s1qZSMRWWUrBUv8M3Dih2hg3gRk=
+		meumXfBjzD5nceZbCFtjyB0/S8M=
 		</data>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		zPxaqNBztA+G34Ilh7GVgOAEqKI=
+		jpj6ryi39G/snU+SVPhmD3c2ED8=
 		</data>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		qfQWnOY/DADzgVBKqyVcyZLAsH0=
+		uz058Twl8x0Z0/klc5qlzk9ewCg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		AaHc7fErjo11LMqx8PDTafJZKGE=
 		</data>
+		<key>PersonalFinanceManagerViewController.nib</key>
+		<data>
+		hzPs9Lx1idOAq6eHTBsQcwRx5Ao=
+		</data>
+		<key>SeeAllCategoriesTableViewCell.nib</key>
+		<data>
+		DCsVdHxJKo0O1sGDNkwqDGUHIy8=
+		</data>
 		<key>SelectTableViewCell.nib</key>
 		<data>
-		lu7mpllsZeHF78IECpDYYlextGc=
+		/3ACUXf7tQEpHqqUxBH+aod+Ri8=
 		</data>
 		<key>SelectViewController.nib</key>
 		<data>
-		dfYkxz2e/7KYh/hIoVIfL7ls18I=
+		ElAQ7QX/HypGWPc5G+rkGQmL0gQ=
+		</data>
+		<key>StatsViewController.nib</key>
+		<data>
+		WKEuoa7Iv/2si/z5IpR+cWbLl6A=
 		</data>
 		<key>ThankYouFooterTableViewCell.nib</key>
 		<data>
-		mwgzC6RpuvXQJ38bE2Ogfw9T0n0=
+		4lCx5jEd6FX3GadMs7sZLSjiqUM=
 		</data>
 		<key>ThankYouTitleTableViewCell.nib</key>
 		<data>
-		zuQuhC0AJbjUc9ENdEb005wflH0=
+		lqWT0/tas3qT5h0qL9wh9bemCwQ=
+		</data>
+		<key>connect_dark_theme.json</key>
+		<data>
+		HS7B1rdbvDioleXqlJHV+EL8wPI=
+		</data>
+		<key>connect_light_theme.json</key>
+		<data>
+		opqAPcf+8/pm23Et24xJA6HSVKo=
+		</data>
+		<key>dark_theme.json</key>
+		<data>
+		tNJUO4ra8TOfgUx9BrhT87m1n4k=
 		</data>
 		<key>filters.json</key>
 		<data>
 		YRnIn/Da+vjYH6MlaG5lvmHGo7s=
+		</data>
+		<key>light_theme.json</key>
+		<data>
+		w6IrZWurGPCgZeN5nY0bxEAG6nA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -147,140 +231,217 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+K8A3K4hx1oVUvjcLOjM/Geut6vCtRmvkF8PC5ogh/Q=
+			K/L/X6tdJB/oB6YfWJPxpRtC1DHSN/L3vRcmSfcJzxM=
 			</data>
 		</dict>
 		<key>BankConsentViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zIHA0VsEtnkK9FU7CGKXE2D5H2NeTohk3omesNKdwlE=
+			SscGP4tPvlzJTzrcoilvDj2xxfrmmO9I0ReSPIggI1k=
 			</data>
 		</dict>
 		<key>BankDetailsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mgd7maJyWiy+B+CdlAnM36pnKmsvLUsSDM+is8UOqFA=
+			Pq6xSl3zTU0+TYVwwkyr6yq5/qyewn7x43xW5fun/lg=
 			</data>
 		</dict>
 		<key>BankFilterExtendedViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3cZW/HNPupzxW/5yITolIrRWt/i0C0Njj0wBgyPJ1o=
+			BgaK0kRVEOftQZ710a6Add6P8ARK4lYt8izWbmCcTRM=
 			</data>
 		</dict>
 		<key>BankFilterViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u1460U3UXDVEW6A8DVAoDmIlen6hULcchlm6IdilVtI=
+			qGpC8SpCAzBRBailyzZvYK/0gk88WQV3+Hr4KiuHZKQ=
 			</data>
 		</dict>
 		<key>BankSelectCellCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K8i2Y68h7EmlwkMvMC8zJmJ1/Sgg6PMkeX6OiyDJprk=
+			Ez2c8ycYrDm8bjqsFdCpUc7xghkOyI9A4lcSbCby1wM=
 			</data>
 		</dict>
 		<key>BankSelectCellCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			79ySOYcxsCQJPX6nWvFDlh4iWEEjJ+5wmA2OIRkSPb0=
+			GixtqOXHyHOSN6KL841Jus0gwTVpHNksR1uDsFzYVro=
+			</data>
+		</dict>
+		<key>BankSelectTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SkwMeERcmQ1ch6rTT2Jnv08m0XiLOREVqz2NFsHVNJc=
+			</data>
+		</dict>
+		<key>BankSelectTableViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xILUP79+Naw6VKHM2OJP4JN2wwoj1Ir2aW3v0SuIomA=
 			</data>
 		</dict>
 		<key>BankSelectViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WO4fPPAWm9iwoLehpW1S1LDR2T7GIGl5JKZ7x3OBDT0=
+			emCxXfuaohyZH0h3hNRYTv2JXpX5C4VPFBEVxByWtGo=
+			</data>
+		</dict>
+		<key>BankTableCellNew.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uUX9ncEIPWkbiI23xyTeoNQEOuLWdEbljKyQUQpwrAo=
 			</data>
 		</dict>
 		<key>BankThankYouViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dzurMAzmcZkkf2+upQhrt41xjymZevsnWja2U6ZIbxo=
+			qj+4/Hp1VRi7CQJ4mM6HfMIMmtG8efPR7bfi+hlgtRk=
+			</data>
+		</dict>
+		<key>BankThankYouViewNewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UNSkD/UsmzBzW7H63EodsEZ8nOWKb+QhUl2scPEVXuU=
+			</data>
+		</dict>
+		<key>CategoriesWheelTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			szjH4MpLIdwhmYSXwZGZNaQHF4caoviwWpAX3Ey5udo=
+			</data>
+		</dict>
+		<key>CategoryTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			24/e7JC/1rAAm+ZXPC51JCDlX4Xvd0Wiay2ntBNca/c=
 			</data>
 		</dict>
 		<key>ConnectedBanksHeaderTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+QPVXCXvyS1P2Tu303YFkO6z5olLTtFRNCH4/DQN7FU=
+			Zecp3su8WSizZCH1g0f9EC8Vkq9wJrjEoWYqn3Z9gtk=
 			</data>
 		</dict>
 		<key>ConsentDetailTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KcQRp3aXbSYwOHVGgzr63mZFryZgH6apSy8PeMytBps=
+			4Baz2vUiG4ShMebjiQeuRruPDX3MElWJeRj19X/psLI=
 			</data>
 		</dict>
 		<key>ConsentFooterTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S7YWyUKaMWqUysWlQdiFYaYepuP11jp+FTg/b5xN6Co=
+			9GIiWrma+79RvwpTXHVOQ4OCuxuXBzXd64VQ7BygNeo=
+			</data>
+		</dict>
+		<key>ConsentHeaderPurposeTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sNe9DhCTr7U4LqyWpHPZ0yvn8Y/kkx+B4egvtGOK5tI=
 			</data>
 		</dict>
 		<key>ConsentHeaderTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bydLb8gHOiFYWjB1LLhMgeQneeoQfaf2gKfHxDEKCE4=
+			dP7LgCJQl4XdWdoBiB21fEPQcnbfLDmrDJpnywFdjsg=
 			</data>
 		</dict>
 		<key>ConsentTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SvarCFje1LuHMyL3Xo9KPldmxDbHIllW66nwytkqGRA=
+			4DQv9YP+6mT22V4ycgajPXbBMq3auSV4qEvFmYU6G30=
 			</data>
 		</dict>
 		<key>ConsentTitleTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TyKEX2Uw2q2H4P+4LMn8hBpYKAAnUnyDA8hx69tRBsY=
+			sPvu4PVK+B/A82M5hGPHx5kQKuFxHAjlktDT+TOptlA=
 			</data>
 		</dict>
 		<key>CountrySelectHeaderTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zfaD+SbTl1I1jelfP9kLtGIyVRnWWTPJH+qAOPJoDuA=
+			A/Mo55wE9lUnRkiUJFAbYphJTX4Mce1Gps/FgBZ7tBg=
 			</data>
 		</dict>
 		<key>CountrySelectTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b0Zaz+bxkFBMlDFSl3opWdXOYU1ToFMlDP81tFYbGsE=
+			DgqbXn1R91gNFN5S8XBRzZ7M6uUSHOGlq34ghfou3uU=
+			</data>
+		</dict>
+		<key>CredibilityAndAffordabilityTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VZmcRfAA9hBt+J4ER5mk335Je8Z5UFb5zbFdoflaUnI=
+			</data>
+		</dict>
+		<key>CredibilityAndAffordabilityViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CnokKkFrxT32+zjdZJXDDydQn0WYn929oFWxp+hg+Ug=
 			</data>
 		</dict>
 		<key>FilterButtonTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W23FkQjXIYAC0qcsqC+yObsx2DRh5UYDC5XiyG+w2U0=
+			0qLrkG5gskM3SbqVL22R1m62nRbP2/Dw1w3eVisHIoo=
 			</data>
 		</dict>
 		<key>FilterPresetTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gWDPXTv3oL+86yPHqANmVYqEdHkDEzZBNmiWABsoZpM=
+			MRJmtFGBkczYrY8SLfmbBwWlCGs5FvsKb+kQFsfDZI4=
+			</data>
+		</dict>
+		<key>FinanceChartTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MWsOSieqSpluaMcxI77D9/8ZtqBaR6BFgYGqxv0UMlI=
+			</data>
+		</dict>
+		<key>FooterTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nCZpa0+fnnT1/iwexaMxjJGwyVF1w5HJEbi6kjrgwIA=
 			</data>
 		</dict>
 		<key>Headers/FriendlyScoreConnect-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kl+oQYk8HSAl9OnrcDwqH72KfDLNx70OClfUsQaT8kE=
+			NDtT6GGGTh6VjgghtMY2J4+WfVNd4r0ZyasIEr0fKdk=
 			</data>
 		</dict>
 		<key>Headers/FriendlyScoreConnect.h</key>
@@ -290,46 +451,67 @@
 			CU6YOr8lZ0rNsf2iy43aMjNhjUAuAleIi5uS3Ob71SE=
 			</data>
 		</dict>
+		<key>IncomingsOutgoingsTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JCy+XPb3c0CIg3NZ6GzPyiqJrIqSndjLsOuWTOZ/1MA=
+			</data>
+		</dict>
+		<key>Modules/FriendlyScoreConnect.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q+9TWaQNPhkMN2/fVBQ+0RpBY4XC1sVuwsBt9ncFX0I=
+			</data>
+		</dict>
+		<key>Modules/FriendlyScoreConnect.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q+9TWaQNPhkMN2/fVBQ+0RpBY4XC1sVuwsBt9ncFX0I=
+			</data>
+		</dict>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D1v7Mh1efYBnrbweVwicWJePthsUQme/rzIZVdQMkqg=
+			6G9KmwxDL82CmhIMQBhPr/oDZqDjM7LWUYQ4ZuSx1v8=
 			</data>
 		</dict>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xkAbrffQ8/0PPdWw1nAJ+cHQxQ15zgnoT58/gF69IuA=
+			Sw9QbhgdUhzUkufKCqc5JJKGQHgV4Mu76wgQK5n0gwU=
 			</data>
 		</dict>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CyuN5uA+et/AFqjgP/qbELJ9vDZda05YDiEENxU1dKY=
+			PtoCRB1qj8IJ8ABjlwh5/L93mP+NHRtF3BRFWHft3kw=
 			</data>
 		</dict>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D1v7Mh1efYBnrbweVwicWJePthsUQme/rzIZVdQMkqg=
+			6G9KmwxDL82CmhIMQBhPr/oDZqDjM7LWUYQ4ZuSx1v8=
 			</data>
 		</dict>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xkAbrffQ8/0PPdWw1nAJ+cHQxQ15zgnoT58/gF69IuA=
+			Sw9QbhgdUhzUkufKCqc5JJKGQHgV4Mu76wgQK5n0gwU=
 			</data>
 		</dict>
 		<key>Modules/FriendlyScoreConnect.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CyuN5uA+et/AFqjgP/qbELJ9vDZda05YDiEENxU1dKY=
+			PtoCRB1qj8IJ8ABjlwh5/L93mP+NHRtF3BRFWHft3kw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -339,32 +521,74 @@
 			XbSdjutDqDJ3epA7P/gj7pXjfzTaITIlrRDtMDosfwk=
 			</data>
 		</dict>
+		<key>PersonalFinanceManagerViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UNJXClpTzsI2XwHjPcxTvUaqK8KkwN69QaVdW4BfiFo=
+			</data>
+		</dict>
+		<key>SeeAllCategoriesTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sUuu4CpYoeO9zW1xYD7D4r/8eJkiB8eSAOt06SPKVhQ=
+			</data>
+		</dict>
 		<key>SelectTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KpMwpyv4mnCCAtvjCMtXGWv44EZb1URHgfCn5iBAvB0=
+			OMmUhiVGcQPnCdwY2nE4K03BEepaiSJ+6cJVUSFifpM=
 			</data>
 		</dict>
 		<key>SelectViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eFXeovrFvt/NIVMN4gw3HgL9rpzZ69BxGjrZrUXN758=
+			dhEbgmlm/HtCc+Qv8fTiIG7Q2UZBM9EXM/Ro31qBOKM=
+			</data>
+		</dict>
+		<key>StatsViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YV65175geJDGpoaH3LYfqOm4MMP5Tpkuktlfw6WEtAw=
 			</data>
 		</dict>
 		<key>ThankYouFooterTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QVMuGLKdN5mxokYVm9LYJwa5koV0TRvURKbrXuRkAkY=
+			cesAKuDFiD7+XCGtowTl1qUmy/Apy1jhgon5my9h6/0=
 			</data>
 		</dict>
 		<key>ThankYouTitleTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ULF5S5kAClnrk9M1YRuLEIHPd/8830PIzwQKH2Gc8mE=
+			Unsww9Tcegv8vRhmx7Sq5AFhkBYUnkF9O6fWEU8vhVg=
+			</data>
+		</dict>
+		<key>connect_dark_theme.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EVcyVlo29kQ9TNkTF2EuuYa7PUg5fLQwXJcDiDmkxrc=
+			</data>
+		</dict>
+		<key>connect_light_theme.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+BG4IGyZ9cZ1kJOB0DK99djHxU+wHOANPDycF77x2c4=
+			</data>
+		</dict>
+		<key>dark_theme.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xL/E8jOwffd93/G98Zkhc6dTfItCArZNRp7k/dzwaoM=
 			</data>
 		</dict>
 		<key>filters.json</key>
@@ -372,6 +596,13 @@
 			<key>hash2</key>
 			<data>
 			IJwnWNv9/aeFpIxkHjYl6EMaUbkefumeb4uh9Czl6bc=
+			</data>
+		</dict>
+		<key>light_theme.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+xOqnLG8HpJPQxiPL2V6omcFWuqQWFL05UxTblOEg3M=
 			</data>
 		</dict>
 	</dict>
